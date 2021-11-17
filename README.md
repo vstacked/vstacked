@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vstacked&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&range=last_30_days)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vstacked7&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true)
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/vstacked/vstacked)
 ![pv](https://pageview.vercel.app/?github_user=vstacked)
