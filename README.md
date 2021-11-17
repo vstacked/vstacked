@@ -4,13 +4,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5" width="50%">
  -->
+ <br />
 <div>
 <img 
    src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true"
-   width="50%" />
+   width="48%" />
 <img 
    src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5"
-   width="50%" />
+   width="48%" />
 </div>
 <!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true)
