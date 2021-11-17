@@ -4,19 +4,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5" width="50%">
 </div> -->
-<figure style="display: flex;">
-   <a
-      href="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true">
-   <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true"
-      width="auto" />
-   </a>
-   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5">
-   <img align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5"
-      width="auto" />
-   </a>
-</figure>
+<img align="left"
+   src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true"
+   width="50%" />
+<img align="right"
+   src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5"
+   width="50%" />
 <!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5) -->
