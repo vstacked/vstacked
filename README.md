@@ -4,7 +4,7 @@
    src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true&custom_title=GitHub Stats"
    width="48%"/>
 <img 
-   src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5&range=last_7_days&custom_title=Wakatime Stats (Weekly)"
+   src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5&range=last_7_days"
    width="48%"/>
  
 
