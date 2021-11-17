@@ -6,9 +6,8 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight" alt="vstacked" />
   
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+![GitHub last commit](https://img.shields.io/github/last-commit/vstacked/vstacked)
+![pv](https://pageview.vercel.app/?github_user=vstacked)
 
 <!--
 **vstacked/vstacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
