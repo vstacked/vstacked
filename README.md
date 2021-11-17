@@ -4,6 +4,13 @@
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vstacked&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <img src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight" alt="vstacked"/>
 
+<a href="https://wakatime.com/@vstacked">
+  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vstacked&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+</a>
+<a href="https://github.com/vstacked">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight" alt="vstacked"/>
+</a>
+
 <br>
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/vstacked/vstacked)
