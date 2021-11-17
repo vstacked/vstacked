@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=gotham" alt="vstacked" />
+
+
 <!--
 **vstacked/vstacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
