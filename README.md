@@ -2,7 +2,7 @@
 
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vstacked&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<img src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight" alt="vstacked" width="700" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight" alt="vstacked" width="400" align="right"/>
 
 <br>
   
