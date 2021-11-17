@@ -5,18 +5,18 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5" width="50%">
  -->
 <div>
-<img align="left"
+<img 
    src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true"
-   width="45%" />
-<img align="right"
+   width="50%" />
+<img 
    src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5"
-   width="45%" />
+   width="50%" />
 </div>
 <!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5) -->
 
-<br>
+<br />
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/vstacked/vstacked)
 ![pv](https://pageview.vercel.app/?github_user=vstacked)
