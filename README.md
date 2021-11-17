@@ -7,6 +7,9 @@
    src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5&range=last_7_days&custom_title=Wakatime Stats (Weekly)"
    width="48%"/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/vstacked/vstacked)
 ![pv](https://pageview.vercel.app/?github_user=vstacked)
 
