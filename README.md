@@ -10,12 +10,13 @@
 
 
 <!--START_SECTION:waka-->
-<!-- ```text
-Dart   12 hrs 5 mins   ██████████████████████░░░   88.32 % 
-JSON   57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Text   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-YAML   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-``` -->
+```text
+Dart       12 hrs 43 mins  █████████████████████░░░░   83.47 % 
+JSON       57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Text       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+HTML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+```
 <!--END_SECTION:waka-->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/vstacked/vstacked)
