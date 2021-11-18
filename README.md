@@ -6,18 +6,9 @@
 <img 
    src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5&range=last_7_days&hide_border=true"
    width="48%"/>
- 
 
-
-<!--START_SECTION:waka-->
-```text
-Dart       12 hrs 43 mins  █████████████████████░░░░   83.47 % 
-JSON       57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Markdown   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Text       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-HTML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-```
-<!--END_SECTION:waka-->
+<!-- START_SECTION:wakaX -->
+<!--END_SECTION:wakaX-->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/vstacked/vstacked)
 ![pv](https://pageview.vercel.app/?github_user=vstacked)
