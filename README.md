@@ -11,7 +11,7 @@ I am interested in becoming a mobile developer, and I want to continue to seek e
 
 ### Stats
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true&custom_title=GitHub Stats&hide_border=true"
+   src="https://github-readme-stats.vercel.app/api?username=vstacked&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
    width="48%"/>
 <img 
    src="https://github-readme-stats.vercel.app/api/wakatime?username=vstacked&theme=tokyonight&langs_count=5&range=last_7_days&hide_border=true"
